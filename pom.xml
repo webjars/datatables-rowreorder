@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>datatables-rowreorder</artifactId>
-    <version>1.2.1-SNAPSHOT</version>
+    <version>1.2.4-SNAPSHOT</version>
     <name>Datatables Row Reorder</name>
     <description>WebJar for Datatables Row Reorder</description>
     <url>http://webjars.org</url>
